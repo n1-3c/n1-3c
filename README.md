@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NeZcXXVVpzVWkDnyMQyjUcw37piShlaQ/view?usp=sharing](https://drive.google.com/file/d/1NeZcXXVVpzVWkDnyMQyjUcw37piShlaQ/view?usp=sharing)
 
-- ⚡ Fun fact **In the universal aspect, wood is costlier than diamond.**
+- ⚡ Fun fact: **In the universal aspect, wood is costlier than diamond.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

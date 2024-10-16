@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n1-3c" alt="n1-3c" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_n13c_" target="blank"><img src="https://img.shields.io/twitter/follow/_n13c_?logo=twitter&style=for-the-badge" alt="_n13c_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/niladri_c_" target="blank"><img src="https://img.shields.io/twitter/follow/niladri_c_?logo=twitter&style=for-the-badge" alt="_n13c_" /></a> </p>
 
 - 🔭 I’m currently working on [Crypnosys](https://github.com/im-nc/Crypnosys)
 
